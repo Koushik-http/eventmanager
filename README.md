@@ -40,5 +40,13 @@ cd your-repository
 
 npm install
 
+
+
+
+
+
+
+visit = Koushik-http.github.io/eventmanager/
+
 npm run dev
 
